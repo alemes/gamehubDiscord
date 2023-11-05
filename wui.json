@@ -2,8 +2,8 @@
   "WBUI2": {
     "settings": {
       "OpenButton": 0,
-      "HideIcon": false,
-      "HideIconAfter": 60,
+      "HideIcon": true,
+      "HideIconAfter": 30,
       "IconURL": "https://cdn.discordapp.com/attachments/1120138253488623729/1170527918552789004/image.png",
       "DisableIconText": false,
       "OpenOnStart": true,
